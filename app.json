@@ -12,18 +12,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.shariful.finman",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.shariful.finman"
-    },
-    "plugins": [
-      [
-        "expo-splash-screen",
-        {
-          "backgroundColor": "#ffffff"
-        }
-      ]
-    ]
+      }
+    }
   }
 }
